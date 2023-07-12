@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/d1m0b8cj4016bt47?svg=true)](https://ci.appveyor.com/project/Artem-Kukin/ajs-regular-expressions)
